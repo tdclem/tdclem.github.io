@@ -10,36 +10,19 @@
 	
     
       <item>
-        <title>Indie Music Gems 9/4</title>
-        <description>
-          
-          Hello, happy Friday and welcome back to yet another segment of Indie Music Gems. In these posts I go over some of my favorite independently produced music that I found over the past seven days. Here are my picks for this week, hope you enjoy them as much as I...
-        </description>
-        <pubDate>Fri, 04 Sep 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2020-09-04-img/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-09-04-img/</guid>
-      </item>
-    
-      <item>
-        <title>Indie Music Gems 8/28</title>
-        <description>
-          
-          Happy Friday and welcome to the first iteration of Indie Music Gems in blog format. Since starting Indie Music Gems the most frequent piece of feedback I have received is that I should play a demo of the track before I review it. Since I do not want to test...
-        </description>
-        <pubDate>Fri, 28 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2020-08-28-img/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-08-28-img/</guid>
-      </item>
-    
-      <item>
         <title>Welcome to my website!</title>
         <description>
           
-          Hello, my name is Tyler and welcome to my website! I am a California based musician and producer that is working on music and music review content. This website will be the home for my current weekly series Indie Music Gems, which covers new indie music that you should be...
+          Hello, my name is Tyler and welcome to my website! I am a California based musician and producer that is working on music. I will use this website from time to time to share updates on my musical endeavors.
+
+You can check out my most recent Spotify release below:
+
+
+
         </description>
-        <pubDate>Tue, 25 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2020-08-25-welcome/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-08-25-welcome/</guid>
+        <pubDate>Sun, 20 Jun 2021 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2021-06-20-welcome/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021-06-20-welcome/</guid>
       </item>
     
   </channel>
