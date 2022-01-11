@@ -89,8 +89,6 @@
   <meta property="og:description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:',' | sort -%} {%- for tag...">
 
   
-  <meta property="og:image" content="http://localhost:4000/assets/img/avatar-icon.png">
-  
 
   
   <meta property="og:type" content="website">
@@ -107,8 +105,6 @@
   <meta property="twitter:title" content="Tag Index">
   <meta property="twitter:description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:',' | sort -%} {%- for tag...">
 
-  
-  <meta name="twitter:image" content="http://localhost:4000/assets/img/avatar-icon.png">
   
 
   
@@ -137,14 +133,6 @@
           </li></ul>
   </div>
 
-  
-    <div class="avatar-container">
-      <div class="avatar-img-border">
-        <a href="http://localhost:4000/">
-          <img alt="Navigation bar avatar" class="avatar-img" src="/assets/img/avatar-icon.png" />
-        </a>
-      </div>
-    </div>
   
 
 </nav>
@@ -185,7 +173,25 @@
     <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
       
 
-      <div id="full-tags-list"></div>
+      <a href="#Recap" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;Recap&nbsp;(1)</a><a href="#Waterdeep Dragon Heist" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;Waterdeep Dragon Heist&nbsp;(1)</a><div id="full-tags-list"><h2 id="Recap" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;Recap&nbsp;(1)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2022-01-11-wdh-recap/">Waterdeep Dragon Heist Recap: Chapter One</a>
+                <div class="entry-date">
+                    <time datetime="2022-01-11T14:00:00-05:00">January 11, 2022</time>
+                </div>
+            </div></div><h2 id="Waterdeep Dragon Heist" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;Waterdeep Dragon Heist&nbsp;(1)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2022-01-11-wdh-recap/">Waterdeep Dragon Heist Recap: Chapter One</a>
+                <div class="entry-date">
+                    <time datetime="2022-01-11T14:00:00-05:00">January 11, 2022</time>
+                </div>
+            </div></div></div>
 
 
       
@@ -225,7 +231,7 @@
         Tyler Clem
         &nbsp;&bull;&nbsp;
       
-      2021
+      2022
 
       
 
