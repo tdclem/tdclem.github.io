@@ -4,6 +4,7 @@ title:  "WDH: Running Cassalanter Villa"
 date:   2022-01-31 00:00:00 -0700
 tags: [Waterdeep Dragon Heist]
 ---
+
 The villain's lairs make up nearly half of the chapters in Waterdeep Dragon Heist, and they are sadly completely optional. When I ran the adventure, I knew that I wanted to have my players heist the lair of my selected villain, the Cassalanters. Having just ran the villa in my last session, I want to talk a bit about ways to motivate players to enter the Cassalanter Villa, and some ideas on how to DM the lair itself.
 
 ## Why Enter The Villa?
