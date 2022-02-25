@@ -5,7 +5,7 @@ share-img: /assets/images/cos/ConjurerAndDarklord.png
 cover-img: /assets/images/cos/GatesOfBarovia.png
 title:  "Curse of Strahd DM Diary - Session One"
 subtitle: "Welcome to Barovia"
-date:   2022-02-23 00:00:00 -0700
+date:   2022-02-25 00:00:00 -0700
 tags: [Curse of Strahd, CoS DM Diary]
 ---
 
