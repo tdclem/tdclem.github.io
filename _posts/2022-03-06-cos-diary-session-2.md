@@ -2,6 +2,7 @@
 layout: post
 thumbnail-img: /assets/images/cos/StrahdCrest.png
 share-img: /assets/images/cos/StrahdCrest.png
+cover-img: /assets/images/cos/CardBanner.png
 title:  "Curse of Strahd DM Diary - Session Two"
 subtitle: "Exploring The Death House"
 date:   2022-03-06 00:00:00 -0700
