@@ -759,9 +759,9 @@ footer .footer-custom-content {
   font-weight: 800;
   letter-spacing: 1px;
   padding: 0.625rem 0.3125rem;
-  background-color: #FFF;
+  background-color: site.navbar-col;
   border-radius: 0;
-  color: {{ site.text-col | default: "#404040" }};
+  color: {{ site.navbar-col | default: "#404040" }};
 }
 @media (min-width: 768px) {
   .pagination .page-item .page-link {
@@ -782,12 +782,12 @@ table {
 }
 table tr {
   border-top: 1px solid #cccccc;
-  background-color: #ffffff;
+  background-color: site.navbar-col;
   margin: 0;
   padding: 0;
 }
 table tr:nth-child(2n) {
-  background-color: #f8f8f8;
+  background-color: site.navbar-col;
 }
 table tr th {
   font-weight: bold;
