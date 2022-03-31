@@ -7,6 +7,7 @@ title:  "Curse of Strahd DM Diary - Session Four"
 subtitle: "Fourtunes of Ravenloft"
 date:   2022-03-24 00:00:00 -0700
 tags: [Curse of Strahd, CoS DM Diary]
+description: "The party gets their fortune told by Madam Eva, and encounter the hag at Old Bonegrinder."
 ---
 
 ## Meeting Madam Eva

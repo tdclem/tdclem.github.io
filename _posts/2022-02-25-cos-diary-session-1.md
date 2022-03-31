@@ -7,6 +7,7 @@ title:  "Curse of Strahd DM Diary - Session One"
 subtitle: "Welcome to Barovia"
 date:   2022-02-25 00:00:00 -0700
 tags: [Curse of Strahd, CoS DM Diary]
+description: "The party travels through the mists and enters the strange land of Barovia."
 ---
 
 ## You Start in a Tavern!
