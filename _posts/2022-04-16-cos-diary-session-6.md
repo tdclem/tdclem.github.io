@@ -5,7 +5,7 @@ share-img: /assets/images/cos/TomeOfStrahd.png
 cover-img: /assets/images/cos/CardBanner.png
 title:  "Curse of Strahd DM Diary - Session Six"
 subtitle: "The Tome of Strahd"
-date:   2022-04-11 00:00:00 -0700
+date:   2022-04-16 00:00:00 -0700
 tags: [Curse of Strahd, CoS DM Diary]
 description: "The party plots to steal the Tome of Strahd from the Burgomaster's Mansion."
 ---
