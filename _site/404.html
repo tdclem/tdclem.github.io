@@ -21,6 +21,8 @@
   
 
   
+  <meta name="keywords" content="D&D,DND,D&D5e,5e,Dungeons And Dragons,Fifth Edition">
+  
 
   <link rel="alternate" type="application/rss+xml" title="YetAnotherTyler" href="http://localhost:4000/feed.xml">
 
@@ -156,12 +158,212 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="/tags">Tags</a>
-          </li></ul>
+          </li>
+        <li class="nav-item">
+          <a class="nav-link" id="nav-search-link" href="#" title="Search">
+            <span id="nav-search-icon" class="fa fa-search"></span>
+            <span id="nav-search-text">Search</span>
+          </a>
+        </li></ul>
   </div>
 
   
 
 </nav>
+
+
+
+<div id="beautifuljekyll-search-overlay">
+
+  <div id="nav-search-exit" title="Exit search">✕</div>
+  <input type="text" id="nav-search-input" placeholder="Search">
+  <ul id="search-results-container"></ul>
+
+  <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+  <script>
+    var searchjson = '[ \
+       \
+        { \
+          "title"    : "Curse of Strahd DM Diary - Session Eight", \
+          "category" : "Curse of StrahdCoS DM Diary", \
+          "url"      : "/2022-04-22-cos-diary-session-8/", \
+          "date"     : "April 22, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Curse of Strahd DM Diary - Session Six", \
+          "category" : "Curse of StrahdCoS DM Diary", \
+          "url"      : "/2022-04-16-cos-diary-session-6/", \
+          "date"     : "April 16, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Curse of Strahd DM Diary - Session Five", \
+          "category" : "Curse of StrahdCoS DM Diary", \
+          "url"      : "/2022-04-05-cos-diary-session-5/", \
+          "date"     : "April  5, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Running Trollskull Manor&#39;s Grand Reopening", \
+          "category" : "Waterdeep Dragon Heist", \
+          "url"      : "/2022-03-27-trollskull-skill-challenge/", \
+          "date"     : "March 27, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Curse of Strahd DM Diary - Session Four", \
+          "category" : "Curse of StrahdCoS DM Diary", \
+          "url"      : "/2022-03-24-cos-diary-session-4/", \
+          "date"     : "March 24, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Curse of Strahd DM Diary - Session Three", \
+          "category" : "Curse of StrahdCoS DM Diary", \
+          "url"      : "/2022-03-15-cos-diary-session-3/", \
+          "date"     : "March 15, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Curse of Strahd DM Diary - Session Two", \
+          "category" : "Curse of StrahdCoS DM Diary", \
+          "url"      : "/2022-03-06-cos-diary-session-2/", \
+          "date"     : "March  6, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Curse of Strahd DM Diary - Session One", \
+          "category" : "Curse of StrahdCoS DM Diary", \
+          "url"      : "/2022-02-25-cos-diary-session-1/", \
+          "date"     : "February 25, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Creating a Vistana PC for Curse of Strahd", \
+          "category" : "Curse of Strahd", \
+          "url"      : "/2022-02-21-creating-a-vistana-pc/", \
+          "date"     : "February 21, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Waterdeep Dragon Heist: Final Thoughts", \
+          "category" : "Waterdeep Dragon Heist", \
+          "url"      : "/2022-02-13-wdh-final-thoughts/", \
+          "date"     : "February 13, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Waterdeep Dragon Heist Recap: Chapter Four", \
+          "category" : "Waterdeep Dragon HeistWDH Recap", \
+          "url"      : "/2022-02-04-wdh-recap/", \
+          "date"     : "February  4, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "WDH: Running Cassalanter Villa", \
+          "category" : "Waterdeep Dragon Heist", \
+          "url"      : "/2022-01-31-wdh-cassalanter-villa/", \
+          "date"     : "January 31, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "WDH: DMs Guild and Other Resources", \
+          "category" : "Waterdeep Dragon Heist", \
+          "url"      : "/2022-01-25-wdh-resources/", \
+          "date"     : "January 25, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Waterdeep Dragon Heist Recap: Chapter Three", \
+          "category" : "Waterdeep Dragon HeistWDH Recap", \
+          "url"      : "/2022-01-19-wdh-recap/", \
+          "date"     : "January 19, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Cassalanter Asmodean Shrine Battlemaps", \
+          "category" : "Waterdeep Dragon HeistBattlemap", \
+          "url"      : "/2022-01-16-cassalanter-outpost-maps/", \
+          "date"     : "January 16, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Waterdeep Dragon Heist Recap: Chapter Two", \
+          "category" : "Waterdeep Dragon HeistWDH Recap", \
+          "url"      : "/2022-01-13-wdh-recap/", \
+          "date"     : "January 13, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Waterdeep Dragon Heist Recap: Chapter One", \
+          "category" : "Waterdeep Dragon HeistWDH Recap", \
+          "url"      : "/2022-01-11-wdh-recap/", \
+          "date"     : "January 11, 2022" \
+        }, \
+       \
+       \
+        { \
+          "title"    : "About Me", \
+          "category" : "page", \
+          "url"      : "/about/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "", \
+          "category" : "page", \
+          "url"      : "/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "Support", \
+          "category" : "page", \
+          "url"      : "/support/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "Tag Index", \
+          "category" : "page", \
+          "url"      : "/tags/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "", \
+          "category" : "page", \
+          "url"      : "/page2/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "", \
+          "category" : "page", \
+          "url"      : "/page3/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "", \
+          "category" : "page", \
+          "url"      : "/page4/", \
+          "date"     : "January 1, 1970" \
+        } \
+       \
+    ]';
+    searchjson = JSON.parse(searchjson);
+
+    var sjs = SimpleJekyllSearch({
+      searchInput: document.getElementById('nav-search-input'),
+      resultsContainer: document.getElementById('search-results-container'),
+      json: searchjson
+    });
+  </script>
+</div>
+
+
 
 
   <div class="intro-header"></div>
