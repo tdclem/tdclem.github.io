@@ -13,6 +13,6 @@ When I ran Waterdeep Dragon Heist, I introduced this outpost as a side objective
 
 I decided to roll for a magic item to place in the basement, and got Keoghtom's Ointment. This turned out to be an interesting piece of storytelling, the ointment can be used to cure poison and disease, so I imagine that the cultists kept it in case of accidental exposure to the Midnight Tears.
 
-![](/assets/battlemaps/CassalanterOutpost.png)
+![First floor of Cassalanter Outpost map.](/assets/battlemaps/CassalanterOutpost.png)
 
-![](/assets/battlemaps/CassalanterOutpostBasement.png)
+![Basement of Cassalanter Outpost map.](/assets/battlemaps/CassalanterOutpostBasement.png)
