@@ -7,7 +7,7 @@ title:  "Curse of Strahd DM Diary - Session Two"
 subtitle: "Exploring The Death House"
 date:   2022-03-06 00:00:00 -0700
 tags: [Curse of Strahd, CoS DM Diary]
-description: "The party unravels the mystery of the Death House, and the Durst Family."
+share-description: "The party unravels the mystery of the Death House, and the Durst family's strange history."
 ---
 
 ## Durst Manor

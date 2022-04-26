@@ -7,7 +7,7 @@ title:  "Curse of Strahd DM Diary - Session Six"
 subtitle: "The Tome of Strahd"
 date:   2022-04-16 00:00:00 -0700
 tags: [Curse of Strahd, CoS DM Diary]
-description: "The party plots to steal the Tome of Strahd from the Burgomaster's Mansion."
+share-description: "The party plots to steal the Tome of Strahd from the Burgomaster's Mansion, and is introduced to the Keepers of the Feather."
 ---
 
 ## The Burgomaster's Mansion

@@ -7,7 +7,7 @@ title:  "Curse of Strahd DM Diary - Session Three"
 subtitle: "Leaving the Village of Barovia"
 date:   2022-03-15 00:00:00 -0700
 tags: [Curse of Strahd, CoS DM Diary]
-description: "The party buries the Burgomaster, and leaves the village of Barovia with Ireena."
+share-description: "The party investigate the town church, and leave the village of Barovia with Ireena."
 ---
 
 ## Blood of the Vine

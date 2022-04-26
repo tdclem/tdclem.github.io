@@ -3,6 +3,7 @@ layout: post
 title:  "Waterdeep Dragon Heist: Final Thoughts"
 date:   2022-02-13 00:00:00 -0700
 tags: [Waterdeep Dragon Heist]
+share-description: "My final thoughts after running Waterdeep Dragon Heist, broken down by the three pillars of D&D: combat, exploration, and roleplay."
 ---
 
 Several months ago, I began my journey as a DM by running Waterdeep Dragon Heist for a group of friends, and last week we finished the adventure. I decided on WDH because I frequently saw it recommended for new DMs or players, and the story seemed straightforward but interesting. While I ran the adventure, I decided to document my experiences with it, you can check out my recap of the first chapter [here](https://yetanothertyler.com/2022-01-11-wdh-recap/){:target="_blank"}.

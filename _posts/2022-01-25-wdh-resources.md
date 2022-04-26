@@ -3,6 +3,7 @@ layout: post
 title:  "WDH: DMs Guild and Other Resources"
 date:   2022-01-25 00:00:00 -0700
 tags: [Waterdeep Dragon Heist]
+share-description: "Some of my favorite resources that I used when running Waterdeep Dragon Heist."
 ---
 
 Waterdeep Dragon Heist has many resources from third parties to help expand on and better run the module, here are some of the ones that I found to be very useful.

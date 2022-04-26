@@ -6,7 +6,7 @@ cover-img: /assets/images/cos/VistaniCarriage.png
 title:  "Creating a Vistana PC for Curse of Strahd"
 date:   2022-02-21 00:00:00 -0700
 tags: [Curse of Strahd]
-description: "Lets make a Vistani player character for Curse of Strahd!"
+share-description: "Lets make a Vistani player character for Curse of Strahd using offical options only!"
 ---
 
 During my Session Zero for Curse of Strahd one of my players told me they wanted to play as a fortune-teller. I felt this was a perfect opportunity to tie their character into the adventure by making them a Vistana, they agreed to my idea, so we set out to create a character. While there are plenty of homebrew race and class options available online for Vistana player characters, I wanted to create a character using only official content. Let's get started!

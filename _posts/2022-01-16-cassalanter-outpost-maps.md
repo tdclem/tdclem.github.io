@@ -3,6 +3,7 @@ layout: post
 title:  "Cassalanter Asmodean Shrine Battlemaps"
 date:   2022-01-16 00:00:00 -0700
 tags: [Waterdeep Dragon Heist, Battlemap]
+share-description: "Free battlemaps for the Cassalanter outpost described in The Alexandrian Remix."
 ---
 
 These are some quick Dungeondraft battlemaps that I made for the [Cassalanter Asmodean Shrine Outpost](https://thealexandrian.net/wordpress/41302/roleplaying-games/dragon-heist-remix-part-3-faction-outposts){:target="_blank"} from The Alexandrian Remix. For these battlemaps the grid size is 256 pixels, feel free to use them as you please!

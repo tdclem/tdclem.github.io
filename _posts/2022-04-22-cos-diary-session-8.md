@@ -7,7 +7,7 @@ title:  "Curse of Strahd DM Diary - Session Eight"
 subtitle: "Assault on Yester Hill"
 date:   2022-04-22 00:00:00 -0700
 tags: [Curse of Strahd, CoS DM Diary]
-description: "The party deals with the druid ritual that has started on Yester Hill."
+share-description: "The party deals with the druid ritual that has started on Yester Hill, and recovers the Sunsword."
 ---
 
 ## What Happened to Session 7?
