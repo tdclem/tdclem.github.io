@@ -6,7 +6,7 @@ cover-img: /assets/images/wdh/TrollskullManor.png
 title:  "Running Trollskull Manor's Grand Reopening"
 date:   2022-03-27 00:00:00 -0700
 tags: [Waterdeep Dragon Heist]
-share-description: "As it is written, the reopening of Trollskull Manor in Waterdeep Dragon Heist is a bit lackluster, needing very little input from the players. Lets fix that using a skill challenge!"
+share-description: "As it is written, the reopening of Trollskull Manor in Waterdeep Dragon Heist is a bit lackluster. Lets fix that using a skill challenge!"
 ---
 
 As it is written, the reopening of Trollskull Manor in Waterdeep Dragon Heist is a bit lackluster, needing very little input from the players. Given the amount of time and gold needed to reopen the tavern, many parties (mine included) want to be involved in the establishment's first day of business. An exciting way to include the whole party in the reopening is by running it as a skill challenge.
