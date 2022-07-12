@@ -10,6 +10,17 @@
 	
     
       <item>
+        <title>Curse of Strahd DM Diary - Session Twelve</title>
+        <description>
+          Into The Werewolf Den - 
+          Into The Werewolf Den Having finally secured a silvered weapon in the last session, the party was ready to challenge the leader of the werewolf pack, Kiril Stoyanovich. Their goal was to rescue a character from one of my player’s backstory, who had been captured and brought to Barovia before...
+        </description>
+        <pubDate>Tue, 12 Jul 2022 03:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022-07-12-cos-diary-session-12/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-07-12-cos-diary-session-12/</guid>
+      </item>
+    
+      <item>
         <title>Curse of Strahd DM Diary - Session Eleven</title>
         <description>
           The Abbot's Deal - 
@@ -216,17 +227,6 @@
         <pubDate>Thu, 13 Jan 2022 02:00:00 -0500</pubDate>
         <link>http://localhost:4000/2022-01-13-wdh-recap/</link>
         <guid isPermaLink="true">http://localhost:4000/2022-01-13-wdh-recap/</guid>
-      </item>
-    
-      <item>
-        <title>Waterdeep Dragon Heist Recap: Chapter One</title>
-        <description>
-          
-          A few months ago, I began my journey as a DM by deciding to run the prewritten module Waterdeep Dragon Heist. As we now begin to wrap up the campaign, I wanted to start recapping my experience from each chapter in order to document my thoughts, and potentially give some...
-        </description>
-        <pubDate>Tue, 11 Jan 2022 14:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2022-01-11-wdh-recap/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022-01-11-wdh-recap/</guid>
       </item>
     
   </channel>
