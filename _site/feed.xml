@@ -10,6 +10,17 @@
 	
     
       <item>
+        <title>Curse of Strahd DM Diary - Session Thirteen</title>
+        <description>
+          The Ruins of Berez - 
+          The New Moon After defeating Kiril Stoyanovich at the werewolf den in the last session, the party took some time to rest before the upcoming new moon. To recap, the players were planning to attack Baba Lysaga during the rituals she performs on the new moon to recover the skull...
+        </description>
+        <pubDate>Wed, 03 Aug 2022 03:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022-08-03-cos-diary-session-13/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-08-03-cos-diary-session-13/</guid>
+      </item>
+    
+      <item>
         <title>Curse of Strahd DM Diary - Session Twelve</title>
         <description>
           Into The Werewolf Den - 
@@ -216,17 +227,6 @@
         <pubDate>Sun, 16 Jan 2022 02:00:00 -0500</pubDate>
         <link>http://localhost:4000/2022-01-16-cassalanter-outpost-maps/</link>
         <guid isPermaLink="true">http://localhost:4000/2022-01-16-cassalanter-outpost-maps/</guid>
-      </item>
-    
-      <item>
-        <title>Waterdeep Dragon Heist Recap: Chapter Two</title>
-        <description>
-          
-          Following Chapter One of Waterdeep Dragon Heist, my players had some treasure, and the keys to Trollskull Manor. My focus for Chapter Two of the module was renovating the manor, and completing some faction missions. Overall, we spent five sessions in this chapter, but the module is flexible enough that...
-        </description>
-        <pubDate>Thu, 13 Jan 2022 02:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2022-01-13-wdh-recap/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022-01-13-wdh-recap/</guid>
       </item>
     
   </channel>
