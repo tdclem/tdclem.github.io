@@ -7,7 +7,7 @@ title:  "Curse of Strahd DM Diary - Session Five"
 subtitle: "The Town of Vallaki"
 date:   2022-04-05 00:00:00 -0700
 tags: [Curse of Strahd, CoS DM Diary]
-share-description: "The party finally reach the town of Vallaki and help deal with the wine shortage they are facing."
+share-description: "The party finally reaches the town of Vallaki and helps deal with the wine shortage they are facing."
 ---
 
 ## In The Shadow of Old Bonegrinder

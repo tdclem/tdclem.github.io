@@ -7,7 +7,7 @@ title:  "Curse of Strahd DM Diary - Session Nine"
 subtitle: "The Order of the Silver Dragon"
 date:   2022-05-03 00:00:00 -0700
 tags: [Curse of Strahd, CoS DM Diary]
-share-description: "The party investigate Argynvostholt in search of a holy symbol of good and protection."
+share-description: "The party investigates Argynvostholt in search of a holy symbol of good and protection."
 ---
 
 ## Whats Next?

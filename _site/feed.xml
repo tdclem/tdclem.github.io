@@ -10,6 +10,17 @@
 	
     
       <item>
+        <title>Curse of Strahd DM Diary - Session Fourteen</title>
+        <description>
+          The Light of the Silver Beacon - 
+          A Chance to Prepare After defeating Baba Lysaga and recovering the skull of Argynvost in the last session, the party decided they were going to relight the silver beacon of Argynvostholt. Knowing that this would draw the attention of Strahd, the players took some time beforehand to prepare. A few...
+        </description>
+        <pubDate>Tue, 09 Aug 2022 03:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022-08-09-cos-diary-session-14/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-08-09-cos-diary-session-14/</guid>
+      </item>
+    
+      <item>
         <title>Curse of Strahd DM Diary - Session Thirteen</title>
         <description>
           The Ruins of Berez - 
@@ -216,17 +227,6 @@
         <pubDate>Wed, 19 Jan 2022 02:00:00 -0500</pubDate>
         <link>http://localhost:4000/2022-01-19-wdh-recap/</link>
         <guid isPermaLink="true">http://localhost:4000/2022-01-19-wdh-recap/</guid>
-      </item>
-    
-      <item>
-        <title>Cassalanter Asmodean Shrine Battlemaps</title>
-        <description>
-          
-          These are some quick Dungeondraft battlemaps that I made for the Cassalanter Asmodean Shrine Outpost from The Alexandrian Remix. For these battlemaps the grid size is 256 pixels, feel free to use them as you please! In my campaign, I ran the Cassalanter outpost a bit differently than what was...
-        </description>
-        <pubDate>Sun, 16 Jan 2022 02:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2022-01-16-cassalanter-outpost-maps/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022-01-16-cassalanter-outpost-maps/</guid>
       </item>
     
   </channel>

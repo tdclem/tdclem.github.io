@@ -7,7 +7,7 @@ title:  "Curse of Strahd DM Diary - Session Ten"
 subtitle: "The New Moon"
 date:   2022-05-18 00:00:00 -0700
 tags: [Curse of Strahd, CoS DM Diary]
-share-description: "The party need to decide between dealing with Baba Lysaga or the werewolf pack on the upcoming new moon."
+share-description: "The party needs to decide between dealing with Baba Lysaga or the werewolf pack on the upcoming new moon."
 ---
 
 ## A Difficult Decision

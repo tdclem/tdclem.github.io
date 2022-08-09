@@ -7,7 +7,7 @@ title:  "Curse of Strahd DM Diary - Session Thirteen"
 subtitle: "The Ruins of Berez"
 date:   2022-08-03 00:00:00 -0700
 tags: [Curse of Strahd, CoS DM Diary]
-share-description: "The party head to Berez to recover the skull of Argynvost from Baba Lysaga."
+share-description: "The party heads to Berez to recover the skull of Argynvost from Baba Lysaga."
 ---
 
 ## The New Moon
