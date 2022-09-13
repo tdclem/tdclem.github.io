@@ -133,3 +133,8 @@ var BeautifulJekyllJS = {
 // 2fc73a3a967e97599c9763d05e564189
 
 document.addEventListener('DOMContentLoaded', BeautifulJekyllJS.init);
+
+function closestickyAds() {
+  var v = document.getElementById("footer-ad");
+  v.style.display = "none";
+}

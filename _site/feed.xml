@@ -10,6 +10,17 @@
 	
     
       <item>
+        <title>Curse of Strahd DM Diary - Session Fifteen</title>
+        <description>
+          Tsolenka Pass - 
+          Braving Tsolenka Pass After defending Argynvostholt from the dark forces of Strahd in the last session, the party decided to take a much-needed rest and research the amber temple they heard about from Ireena. The party headed to the Wizard of Wines, seeking whatever help they could get from the...
+        </description>
+        <pubDate>Tue, 13 Sep 2022 03:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022-09-13-cos-diary-session-15/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-09-13-cos-diary-session-15/</guid>
+      </item>
+    
+      <item>
         <title>Leader of the Pack</title>
         <description>
           A DMs Guild Supplement for Curse of Strahd - 
@@ -216,17 +227,6 @@
         <pubDate>Mon, 31 Jan 2022 02:00:00 -0500</pubDate>
         <link>http://localhost:4000/2022-01-31-wdh-cassalanter-villa/</link>
         <guid isPermaLink="true">http://localhost:4000/2022-01-31-wdh-cassalanter-villa/</guid>
-      </item>
-    
-      <item>
-        <title>WDH: DMs Guild and Other Resources</title>
-        <description>
-          
-          Waterdeep Dragon Heist has many resources from third parties to help expand on and better run the module, here are some of the ones that I found to be very useful. Sly Flourish: Session Zero Because WDH has a different style when compared to other prewritten adventures, I felt it...
-        </description>
-        <pubDate>Tue, 25 Jan 2022 02:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2022-01-25-wdh-resources/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022-01-25-wdh-resources/</guid>
       </item>
     
   </channel>
