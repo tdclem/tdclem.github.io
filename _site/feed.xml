@@ -10,6 +10,17 @@
 	
     
       <item>
+        <title>Curse of Strahd DM Diary - Session Sixteen</title>
+        <description>
+          The Amber Temple - 
+          Scaling Mount Ghakis After dealing with the Roc of Mount Ghakis at the end of the last session, the party continued on Tsolenka Pass searching for the Amber Temple. After walking for around an hour, the most perceptive party members picked up the scent of blood, and noticed a patch...
+        </description>
+        <pubDate>Tue, 11 Oct 2022 03:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022-10-11-cos-diary-session-16/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-10-11-cos-diary-session-16/</guid>
+      </item>
+    
+      <item>
         <title>Curse of Strahd DM Diary - Session Fifteen</title>
         <description>
           Tsolenka Pass - 
@@ -216,17 +227,6 @@
         <pubDate>Fri, 04 Feb 2022 02:00:00 -0500</pubDate>
         <link>http://localhost:4000/2022-02-04-wdh-recap/</link>
         <guid isPermaLink="true">http://localhost:4000/2022-02-04-wdh-recap/</guid>
-      </item>
-    
-      <item>
-        <title>WDH: Running Cassalanter Villa</title>
-        <description>
-          
-          The villain’s lairs make up nearly half of the chapters in Waterdeep Dragon Heist, and they are sadly completely optional. When I ran the adventure, I knew that I wanted to have my players heist the lair of my selected villain, the Cassalanters. Having just ran the villa in my...
-        </description>
-        <pubDate>Mon, 31 Jan 2022 02:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2022-01-31-wdh-cassalanter-villa/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022-01-31-wdh-cassalanter-villa/</guid>
       </item>
     
   </channel>
