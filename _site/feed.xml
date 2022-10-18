@@ -10,6 +10,17 @@
 	
     
       <item>
+        <title>Curse of Strahd DM Diary - Session Seventeen</title>
+        <description>
+          The Amber Vaults - 
+          Exploring the Amber Temple After fighting off the arcanaloth Neferon in the last session, the party was free to explore the Amber Temple. Having heard some noises coming upstairs in the east wing of the temple, the party decided to start their search there. Heading into the east wing, the...
+        </description>
+        <pubDate>Tue, 18 Oct 2022 03:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022-10-18-cos-diary-session-17/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-10-18-cos-diary-session-17/</guid>
+      </item>
+    
+      <item>
         <title>Curse of Strahd DM Diary - Session Sixteen</title>
         <description>
           The Amber Temple - 
@@ -216,17 +227,6 @@
         <pubDate>Sun, 13 Feb 2022 02:00:00 -0500</pubDate>
         <link>http://localhost:4000/2022-02-13-wdh-final-thoughts/</link>
         <guid isPermaLink="true">http://localhost:4000/2022-02-13-wdh-final-thoughts/</guid>
-      </item>
-    
-      <item>
-        <title>Waterdeep Dragon Heist Recap: Chapter Four</title>
-        <description>
-          
-          Now that my players completed their fireball investigation, and had their sights set on the Stone of Golorr, I was ready to start the final chapter of Waterdeep Dragon Heist. In Chapter Four, players should be chasing after the Stone of Golorr, hunting down the vault keys, and entering the...
-        </description>
-        <pubDate>Fri, 04 Feb 2022 02:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2022-02-04-wdh-recap/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022-02-04-wdh-recap/</guid>
       </item>
     
   </channel>
