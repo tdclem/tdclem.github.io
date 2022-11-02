@@ -10,6 +10,17 @@
 	
     
       <item>
+        <title>The Brides of Strahd</title>
+        <description>
+          A DMs Guild Supplement for Curse of Strahd - 
+          The Brides of Strahd, Now on DMs Guild! I am excited to share a new pay what you want supplement for Curse of Strahd on the DMs Guild, The Brides of Strahd! The supplement aims to provide more challenging and interesting statblocks for the three brides of Strahd. This is...
+        </description>
+        <pubDate>Fri, 28 Oct 2022 03:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022-10-28-the-brides-of-strahd/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-10-28-the-brides-of-strahd/</guid>
+      </item>
+    
+      <item>
         <title>Curse of Strahd DM Diary - Session Eighteen</title>
         <description>
           The Dark Gift of the Vampyr - 
@@ -216,17 +227,6 @@
         <pubDate>Fri, 25 Feb 2022 02:00:00 -0500</pubDate>
         <link>http://localhost:4000/2022-02-25-cos-diary-session-1/</link>
         <guid isPermaLink="true">http://localhost:4000/2022-02-25-cos-diary-session-1/</guid>
-      </item>
-    
-      <item>
-        <title>Creating a Vistana PC for Curse of Strahd</title>
-        <description>
-          
-          During my Session Zero for Curse of Strahd one of my players told me they wanted to play as a fortune-teller. I felt this was a perfect opportunity to tie their character into the adventure by making them a Vistana, they agreed to my idea, so we set out to...
-        </description>
-        <pubDate>Mon, 21 Feb 2022 02:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2022-02-21-creating-a-vistana-pc/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022-02-21-creating-a-vistana-pc/</guid>
       </item>
     
   </channel>
