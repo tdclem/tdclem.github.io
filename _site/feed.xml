@@ -10,6 +10,17 @@
 	
     
       <item>
+        <title>Curse of Strahd DM Diary - Session Nineteen</title>
+        <description>
+          The Curse of Strahd - 
+          A Bittersweet Morning At the end of the last session, the party were on their way back from the Amber Temple, when they spotted Strahd’s carriage parked near the stone bridge on Tsolenka Pass. Unsure if they were ready to take on Strahd, they decided to instead pull off the...
+        </description>
+        <pubDate>Fri, 04 Nov 2022 03:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022-11-04-cos-diary-session-19/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-11-04-cos-diary-session-19/</guid>
+      </item>
+    
+      <item>
         <title>The Brides of Strahd</title>
         <description>
           A DMs Guild Supplement for Curse of Strahd - 
@@ -216,17 +227,6 @@
         <pubDate>Sun, 06 Mar 2022 02:00:00 -0500</pubDate>
         <link>http://localhost:4000/2022-03-06-cos-diary-session-2/</link>
         <guid isPermaLink="true">http://localhost:4000/2022-03-06-cos-diary-session-2/</guid>
-      </item>
-    
-      <item>
-        <title>Curse of Strahd DM Diary - Session One</title>
-        <description>
-          Welcome to Barovia - 
-          You Start in a Tavern! My journey as a Curse of Strahd DM began, as many great adventures do, in a tavern. Specifically, at The Lady’s Luck tavern in the town of Daggerford. I decided on using the Secrets of the Tarokka adventure hook by DragnaCarta, so my players all...
-        </description>
-        <pubDate>Fri, 25 Feb 2022 02:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2022-02-25-cos-diary-session-1/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022-02-25-cos-diary-session-1/</guid>
       </item>
     
   </channel>
