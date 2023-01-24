@@ -5,7 +5,7 @@ permalink: /releases/
 share-description: "Thank you for taking an interest in what I do!"
 ---
 
-Thank you for taking an interest in what I do! I am currently celebrating my first release on the DMs Guild, a pay what you want supplement for Curse of Strahd called the [Leader of the Pack](https://www.dmsguild.com/product/406741/Leader-of-the-Pack){:target="_blank"}. In the future you can use [this link](https://www.dmsguild.com/browse.php?author=YetAnotherTyler){:target="_blank"} to find all my releases on the DM's Guild.
+Thank you for taking an interest in what I do! Feel free to check back for future releases, or you can use [this link](https://www.dmsguild.com/browse.php?author=YetAnotherTyler){:target="_blank"} to find all my releases on the DM's Guild.
 
 <ul style="list-style-type:none">
 {% for tag in site.tags %}
