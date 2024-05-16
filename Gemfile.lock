@@ -39,8 +39,6 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
-    jekyll-seo-tag (2.8.0)
-      jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
@@ -61,7 +59,8 @@ GEM
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rexml (3.2.5)
+    rexml (3.2.8)
+      strscan (>= 3.0.9)
     rouge (3.22.0)
     safe_yaml (1.0.5)
     sass (3.7.4)
@@ -69,6 +68,7 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+    strscan (3.1.0)
 
 PLATFORMS
   ruby
@@ -76,7 +76,6 @@ PLATFORMS
 DEPENDENCIES
   beautiful-jekyll-theme!
   bundler (>= 1.16)
-  jekyll-seo-tag
   rake (~> 12.0)
 
 BUNDLED WITH
