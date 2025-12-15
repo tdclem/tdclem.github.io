@@ -5,7 +5,7 @@ permalink: /releases/
 share-description: "Thank you for taking an interest in what I do!"
 ---
 
-Thank you for taking an interest in what I do! Feel free to check back for future releases, or you can use [this link](https://www.dmsguild.com/browse.php?author=YetAnotherTyler){:target="_blank"} to find all my releases on the DM's Guild.
+Thank you for taking an interest in what I do! Feel free to check back for future releases, or you can use [this link](https://www.dmsguild.com/browse.php?author=YetAnotherTyler&page=1&sortBy=name){:target="_blank"} to find all my releases on the DM's Guild.
 
 <ul style="list-style-type:none">
 {% for tag in site.tags %}
